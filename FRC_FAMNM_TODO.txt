@@ -1,0 +1,18 @@
+TODO:
+
+For the Netbook/Lenovo computer, do:
+* Installing the FRC Update Suite
+
+For this computer, do:
+* Installing Eclipse (C++/Java) [Starting at the "Setting up the JDK in eclipse (Java teams only)" step, Eclipse is already installed=
+* Installing Java 8 on the roboRIO using the FRC roboRIO Java Installer4
+
+both from https://wpilib.screenstepslive.com/s/currentCS/m/java
+
+No other "Setting up the Development Environment" steps should be necessary.
+
+Then, you can load a sample program and test driving around your vehicle by doing 
+the "Creating and Running Robot Programs" steps on the same page: 
+https://wpilib.screenstepslive.com/s/currentCS/m/java
+
+Identify Eclipse setting for Java
